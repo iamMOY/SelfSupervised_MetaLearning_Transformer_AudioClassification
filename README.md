@@ -1,5 +1,13 @@
 # SelfSupervised_MetaLearning_Transformer_AudioClassification
 
+Audio Classification Vanilla:
+Dataset - UrbanSoundDataset
+Model- CNN
+
+Self SUpervised Representation Learning:
+Dataset - UrbanSoundDataset
+Model - HuBERT Transformer
+
 Dataset to train on
 1. NSynth - Meta Train/Test
 2. ESC-50 - Meta Train/Test
