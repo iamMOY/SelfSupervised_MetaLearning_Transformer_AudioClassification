@@ -4,7 +4,7 @@ Audio Classification Vanilla:
 Dataset - UrbanSoundDataset
 Model- CNN
 
-Self SUpervised Representation Learning:
+Self Supervised Representation Learning:
 Dataset - UrbanSoundDataset
 Model - HuBERT Transformer
 
