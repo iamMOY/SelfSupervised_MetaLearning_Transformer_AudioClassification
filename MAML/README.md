@@ -13,6 +13,8 @@ For training a 5-way 1-shot audio classifier using the Embeddings from SSAST, ru
 python main.py
 ```
 
+Note: Also change the data_path based on where the ESC_embeddings were saved in maml_experiments_params.yaml
+
 
 
 
