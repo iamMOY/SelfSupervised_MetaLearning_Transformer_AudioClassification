@@ -1,3 +1,3 @@
 # SelfSupervised_MetaLearning_Transformer_AudioClassification
 
-asdsad
+The instructions for running the training files are included in the ReadMe files inside the MAML and SSAST_Embeddings folder.
