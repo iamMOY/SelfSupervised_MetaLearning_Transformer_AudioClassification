@@ -46,7 +46,7 @@ data:
   fixed: True
 
   fixed_path: 'dataset_\splits\ESC_paper_splits.npy'
-  data_path: 'C:\\Users\arsht_h67\Desktop\Self_Supervised_Meta_Learning\MetaAudio-A-Few-Shot-Audio-Classification-Benchmark\ESC-50-master\ESC_embeddings'
+  data_path: 'C:\\Users\\arsht_h67\\Desktop\\Meta_SSL\\MAML\\ESC-50-master\\ESC_embeddings'
 
 split:
   train: 0.7
